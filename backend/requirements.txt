@@ -1,0 +1,13 @@
+flask==3.0.3
+flask-cors==4.0.1
+flask-jwt-extended==4.6.0
+flask-bcrypt==1.0.1
+flask-limiter==3.5.1
+pymongo[srv]==4.8.0
+python-dotenv==1.0.1
+spacy==3.7.5
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+PyMuPDF==1.24.9
+gunicorn==22.0.0
